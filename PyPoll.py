@@ -16,7 +16,7 @@
 
 import csv
 dir(csv)
-file_to_load = 'Resources/election_results.csv'
+file_to_load = 'C:/Users/benni/DataBootcamp/Election_Analysis/Resources/election_results.csv'
 reader = csv.reader(file_to_load)
 print(reader)
 file_variable = open(file_to_load, "r")
