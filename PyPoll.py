@@ -7,13 +7,16 @@
 
 
 # Import the datetime dependency.
-import datetime
+#import datetime
 # Use the now() attribute on the datatime class to get the present time.
-now = datetime.datetime.now()
+#now = datetime.datetime.now()
 # Print the present time.
-print("The time right now is, ", now)
+#print("The time right now is, ", now)
 
-file_to_load = 'Resources/election_results.csv'
+
 import csv
 dir(csv)
-
+file_to_load = 'Resources/election_results.csv'
+reader = csv.reader(file_to_load)
+print(reader)
+file_variable = open(file_to_load, "r")
