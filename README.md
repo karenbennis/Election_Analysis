@@ -20,8 +20,8 @@ The following is an analysis of Colorado election data. The election audit invol
     * Diana DeGette
     * Raymon Anthony Doane
 * The candidate results were:
-    * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
-    * Diana DeGette received 73.8% of the vote and 272,892 number of votes
+    * Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     * Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
 * The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
@@ -40,9 +40,9 @@ To expand upon the project, the following tasks were completed:
     * Denver
     * Arapahoe
 * The county results were:
-    * From Jefferson, 10.5% of the votes or 38,855 number of votes were cast
-    * From Denver, 82.8% of the votes or 306,055 number of votes were cast
-    * From Arapahoe, 6.7% of the votes or 24,801 number of votes were cast
-* The county with the largest turnout was Denver, where 82.8% of the votes or 306,055 number of votes were cast in the election
+    * From Jefferson, 10.5% of the votes or 38,855 number of votes were cast.
+    * From Denver, 82.8% of the votes or 306,055 number of votes were cast.
+    * From Arapahoe, 6.7% of the votes or 24,801 number of votes were cast.
+* The county with the largest turnout was Denver, where 82.8% of the votes or 306,055 number of votes were cast in the election.
 
 This analysis, combined with the analysis carried out in the project described above, is completed in the file PyPoll_Challenge.py with output in the text file election_results.txt.
