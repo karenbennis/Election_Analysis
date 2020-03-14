@@ -173,6 +173,7 @@ with open(file_to_load) as election_data:
     for row in file_reader:
         # Add to the total vote count.
         total_votes += 1
+        
 
         # Print the candidate name from each row.
         candidate_name = row[2]
